@@ -6,9 +6,7 @@ Web Developer and Frontend Enthusiast
 
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [malolan.me](http://malolan.me)
-* ✉️  You can contact me at [uchihamalolan@gmail.com](mailto:uchihamalolan@gmail.com)
-* 🚀  I'm currently working on [Hacking AR Automation in Growfin.ai](http://growfin.ai)
-* 🧠  I'm learning Spring Boot & React and it's Meta Frameworks
+* ✉️  You can contact me at [ma101an@icloud.com](mailto:ma101an@icloud.com)
 
 ### Skills
 
